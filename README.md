@@ -1,7 +1,8 @@
 # Overview
 
 This repo contains a fork project code from the ["TensorFlow for poets 2"](https://github.com/googlecodelabs/tensorflow-for-poets-2) series of codelabs.
-Added **Jupyter Notebook** files to play on classification:
+
+It has been added **Jupyter Notebook** files to play on classification:
 * **Label.ipynb** : to test classification on never seen files during training
 * **Label-Server.ipynb** : to classify files uploaded in a directory
 * **NBServer.ipynb** : an HTTP server to upload files to be classified, and get classification done by *Label-Server.ipynb*
